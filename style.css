@@ -1,0 +1,21 @@
+body
+{
+    font-family: sans-serif;
+    
+    background-size:  cover; 
+    background-repeat:  no-repeat;
+}
+
+button
+{
+    font-size: 3em;
+}
+
+h1
+{
+    color: white;
+    background-color:  black; 
+}
+
+
+    background-image: image(shop.jpg);
